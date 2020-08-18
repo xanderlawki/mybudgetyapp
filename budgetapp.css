@@ -21,7 +21,6 @@ body {
     position: relative;
     height: 100vh;
     font-weight: 400;
-    background-image: url("img/leo-rivas-R_BLOGXpsOg-unsplash.jpg");
 }
 
 .right { float: right; }
@@ -34,7 +33,7 @@ body {
 
 .top {
     height: 40vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(greeny.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url("img/leo-rivas-R_BLOGXpsOg-unsplash.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
