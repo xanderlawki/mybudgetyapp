@@ -21,6 +21,7 @@ body {
     position: relative;
     height: 100vh;
     font-weight: 400;
+    background-image: url("img/leo-rivas-R_BLOGXpsOg-unsplash.jpg");
 }
 
 .right { float: right; }
